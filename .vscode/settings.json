@@ -7,9 +7,7 @@
       "default": true
     }
   ],
-  "java.project.sourcePaths": [
-    ".vscode_java\\src"
-  ],
+  "java.project.sourcePaths": ["src"],
   "java.project.referencedLibraries": []
 }
 
