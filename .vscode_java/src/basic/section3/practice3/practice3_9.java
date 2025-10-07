@@ -1,6 +1,6 @@
-package section3.practice3;
+package basic.section3.practice3;
 
-import section3.myclass3.BigData;
+import basic.section3.myclass3.BigData;
 
 public class practice3_9 
 {

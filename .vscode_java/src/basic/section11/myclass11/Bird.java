@@ -1,4 +1,4 @@
-package section11.myclass11;
+package basic.section11.myclass11;
 
 public class Bird extends AbstractAnimal implements Fly // 클래스는 상속, 인터페이스는 구현
 {                                                       // 인터페이스는 다중 구현 가능해서 여러개 implements 가능함

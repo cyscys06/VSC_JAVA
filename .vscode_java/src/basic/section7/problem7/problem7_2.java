@@ -1,7 +1,7 @@
-package section7.problem7;
+package basic.section7.problem7;
 
-import section7.myclass7.Item;
-import section7.myclass7.ShoppingCart;
+import basic.section7.myclass7.Item;
+import basic.section7.myclass7.ShoppingCart;
 
 public class problem7_2 
 {

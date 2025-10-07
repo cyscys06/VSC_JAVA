@@ -1,6 +1,6 @@
-package section4.problem4;
+package basic.section4.problem4;
 
-import section4.myclass4.Rectangle;
+import basic.section4.myclass4.Rectangle;
 
 public class problem4_1 
 {

@@ -1,4 +1,4 @@
-package section7.myclass7;
+package basic.section7.myclass7;
 
 public class Item // 상품을 저장하는 클래스
 {

@@ -1,6 +1,6 @@
-package section10.practice10;
+package basic.section10.practice10;
 
-import section10.myclass10.Child1;
+import basic.section10.myclass10.Child1;
 
 public class practice10_3 
 {

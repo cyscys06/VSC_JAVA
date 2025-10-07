@@ -1,6 +1,6 @@
-package section5.practice5;
+package basic.section5.practice5;
 
-import section5.myclass5.MemberConstruct;
+import basic.section5.myclass5.MemberConstruct;
 
 public class practice5_2 
 {

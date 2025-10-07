@@ -1,4 +1,4 @@
-package section7.myclass7;
+package basic.section7.myclass7;
 
 public class PublicClass 
 {

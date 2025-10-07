@@ -1,6 +1,6 @@
-package section7.practice7;
+package basic.section7.practice7;
 
-import section7.myclass7.PublicClass;
+import basic.section7.myclass7.PublicClass;
 
 public class practice7_2 
 {

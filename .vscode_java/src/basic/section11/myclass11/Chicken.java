@@ -1,4 +1,4 @@
-package section11.myclass11;
+package basic.section11.myclass11;
 
 public class Chicken extends AbstractAnimal implements Fly
 {

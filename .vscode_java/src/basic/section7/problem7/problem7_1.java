@@ -1,6 +1,6 @@
-package section7.problem7;
+package basic.section7.problem7;
 
-import section7.myclass7.MaxCounter;
+import basic.section7.myclass7.MaxCounter;
 
 public class problem7_1 
 {

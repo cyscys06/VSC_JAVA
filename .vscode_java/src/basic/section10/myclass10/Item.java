@@ -1,4 +1,4 @@
-package section10.myclass10;
+package basic.section10.myclass10;
 
 public class Item 
 {

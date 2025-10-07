@@ -1,7 +1,7 @@
-package section11.practice11;
+package basic.section11.practice11;
 
-import section11.myclass11.Child;
-import section11.myclass11.Parent;
+import basic.section11.myclass11.Child;
+import basic.section11.myclass11.Parent;
 
 public class practice11_2 
 {

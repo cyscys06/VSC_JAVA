@@ -1,7 +1,7 @@
-package section8.problem8;
+package basic.section8.problem8;
 
-import section8.myclass8.Car;
-import static section8.myclass8.Car.showTotalCars;
+import basic.section8.myclass8.Car;
+import static basic.section8.myclass8.Car.showTotalCars;
 
 public class problem8_1 
 {

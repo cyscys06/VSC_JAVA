@@ -1,6 +1,6 @@
-package section7.practice7;
+package basic.section7.practice7;
 
-import section7.myclass7.BankAccount;
+import basic.section7.myclass7.BankAccount;
 
 public class practice7_3 
 {

@@ -1,8 +1,8 @@
-package section3.problem3;
+package basic.section3.problem3;
 
 import java.util.Scanner;
 
-import section3.myclass3.ProductOrder;
+import basic.section3.myclass3.ProductOrder;
 
 public class problem3_2 
 {

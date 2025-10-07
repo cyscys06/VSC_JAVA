@@ -1,4 +1,4 @@
-package section5.myclass5;
+package basic.section5.myclass5;
 
 public class MemberInit 
 {

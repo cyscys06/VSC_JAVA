@@ -1,4 +1,4 @@
-package section6.myclass6;
+package basic.section6.myclass6;
 
 public class User 
 {

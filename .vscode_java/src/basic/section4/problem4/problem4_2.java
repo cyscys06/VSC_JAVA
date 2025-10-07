@@ -1,6 +1,6 @@
-package section4.problem4;
+package basic.section4.problem4;
 
-import section4.myclass4.Account;
+import basic.section4.myclass4.Account;
 
 public class problem4_2 
 {

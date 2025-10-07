@@ -1,6 +1,6 @@
-package section9.practice9;
+package basic.section9.practice9;
 
-import section9.myclass9.Data;
+import basic.section9.myclass9.Data;
 
 public class practice9_1 
 {

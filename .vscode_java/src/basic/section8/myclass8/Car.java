@@ -1,4 +1,4 @@
-package section8.myclass8;
+package basic.section8.myclass8;
 
 public class Car 
 {

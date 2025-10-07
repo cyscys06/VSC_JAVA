@@ -1,4 +1,4 @@
-package section10.myclass10;
+package basic.section10.myclass10;
 
 public class GasCar extends Car // Car라는 부모 클래스를 상속받는 GasCar라는 자식 클래스 만듦
 {

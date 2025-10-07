@@ -1,4 +1,4 @@
-package section11.myclass11;
+package basic.section11.myclass11;
 
 public interface Fly // 인터페이스는 클래스 대신 interface 씀 
 {

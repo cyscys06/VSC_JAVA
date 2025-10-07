@@ -1,4 +1,4 @@
-package section4.myclass4;
+package basic.section4.myclass4;
 
 public class MusicPlayer 
 {

@@ -1,7 +1,7 @@
-package section8.practice8;
+package basic.section8.practice8;
 
-import static section8.myclass8.DecoData.*; // 클래스의 정적 메서드들을 불러오기
-import section8.myclass8.DecoData; // 클래스의 인스턴스 메서드들을 불러오기
+import static basic.section8.myclass8.DecoData.*; // 클래스의 정적 메서드들을 불러오기
+import basic.section8.myclass8.DecoData; // 클래스의 인스턴스 메서드들을 불러오기
 
 public class practice8_3
 {

@@ -1,8 +1,8 @@
-package section10.problem10;
+package basic.section10.problem10;
 
-import section10.myclass10.Movie;
-import section10.myclass10.Book;
-import section10.myclass10.Album;
+import basic.section10.myclass10.Movie;
+import basic.section10.myclass10.Book;
+import basic.section10.myclass10.Album;
 
 public class problem10_1 
 {

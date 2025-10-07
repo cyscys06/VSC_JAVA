@@ -1,4 +1,4 @@
-package section3.myclass3;
+package basic.section3.myclass3;
 
 public class BigData 
 {

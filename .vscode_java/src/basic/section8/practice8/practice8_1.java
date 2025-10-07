@@ -1,4 +1,4 @@
-package section8.practice8;
+package basic.section8.practice8;
 
 public class practice8_1 
 {

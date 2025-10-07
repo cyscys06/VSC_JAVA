@@ -1,4 +1,4 @@
-package section12.myclass12;
+package basic.section12.myclass12;
 
 public class Driver1 
 {

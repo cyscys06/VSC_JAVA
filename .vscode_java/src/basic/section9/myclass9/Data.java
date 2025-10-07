@@ -1,4 +1,4 @@
-package section9.myclass9;
+package basic.section9.myclass9;
 
 public class Data 
 {

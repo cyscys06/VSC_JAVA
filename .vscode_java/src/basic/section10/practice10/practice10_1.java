@@ -1,7 +1,7 @@
-package section10.practice10;
+package basic.section10.practice10;
 
-import section10.myclass10.ElectricCar;
-import section10.myclass10.GasCar;
+import basic.section10.myclass10.ElectricCar;
+import basic.section10.myclass10.GasCar;
 // 자식 클래스들 불러오기
 // Car 클래스의 기능은 이미 자식 클래스가 상속받아서 갖고 있으므로 불러올 필요 없음
 

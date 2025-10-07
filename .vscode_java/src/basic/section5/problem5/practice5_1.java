@@ -1,6 +1,6 @@
-package section5.problem5;
+package basic.section5.problem5;
 
-import section5.myclass5.Book;
+import basic.section5.myclass5.Book;
 
 public class practice5_1 
 {

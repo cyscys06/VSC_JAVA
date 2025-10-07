@@ -1,4 +1,4 @@
-package section3.practice3;
+package basic.section3.practice3;
 public class practice3_3 
 {
     public static void main(String[] args) 
