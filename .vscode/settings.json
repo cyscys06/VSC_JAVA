@@ -1,0 +1,16 @@
+{
+  "java.jdt.ls.java.home": "C:\\java-21-openjdk-21.0.4.0.7-1.win.jdk.x86_64",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\java-21-openjdk-21.0.4.0.7-1.win.jdk.x86_64",
+      "default": true
+    }
+  ],
+  "java.project.sourcePaths": [
+    ".vscode_java\\src"
+  ],
+  "java.project.referencedLibraries": []
+}
+
+// This setting is deprecated, please use 'java.jdt.ls.java.home' instead.
