@@ -17,3 +17,5 @@ public class test { // 공용 클래스 이름은 항상 파일 이름과 같아
 //1. out은 System 클래스의 멤버 변수임 
 //2. 근데 멤버변수 out을 Systeam 안에서 선언할때 자료형을 본인이 속한 System형으로 안하고 Printstream이라는 별도의 미리 선언된 클래스 형으로 선언했음 
 // 3. 따라서 out은 Printstream 클래스의 메서드인 println()을 사용할 수 있음
+
+
