@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9a18ce8-4c01-47ca-8066-3db377a7ac6f" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/cyscys06/IntelliJ_JAVA.git",
+    "accountId": "806ce5c6-eb1a-4010-a631-4d2a5d541059"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3CuvrDJKmFiPYYOGsNruxtQFlAC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/Area/IntelliJ_JAVA",
+    "settings.editor.selected.configurable": "preferences.language.and.region",
+    "애플리케이션.BufferedCopyExample.executor": "Run",
+    "애플리케이션.BufferedReaderExample.executor": "Run",
+    "애플리케이션.DataStreamExample.executor": "Run",
+    "애플리케이션.FileAppendExample.executor": "Run",
+    "애플리케이션.FileReadExample.executor": "Run",
+    "애플리케이션.FileWriteExample.executor": "Run",
+    "애플리케이션.GUIExample.executor": "Run",
+    "애플리케이션.ImageCopyExample.executor": "Run",
+    "애플리케이션.K2500191_1.executor": "Run",
+    "애플리케이션.ListenerExample.executor": "Run",
+    "애플리케이션.MultipleReadExample.executor": "Run",
+    "애플리케이션.ObjectStreamExample.executor": "Run",
+    "애플리케이션.PhoneBookExample.executor": "Run",
+    "애플리케이션.SwingExample.executor": "Run",
+    "애플리케이션.chap12.GUIExample (1).executor": "Run",
+    "애플리케이션.chap12.GUIExample (2).executor": "Run",
+    "애플리케이션.chap12.GUIExample (3).executor": "Run",
+    "애플리케이션.chap12.GUIExample (4).executor": "Run",
+    "애플리케이션.chap12.GUIExample.executor": "Run",
+    "애플리케이션.program.program.PhoneBookExample.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA\JavaProgramming\src" />
+      <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA\JavaProgramming\Files" />
+      <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA\JavaProgramming\src\program" />
+      <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA\JavaProgramming\File" />
+      <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA\JavaProgramming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.K2500191_1">
+    <configuration name="GUIExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap12.GUIExample" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="K2500191_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="K2500191_1" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chap12.GUIExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap12.GUIExample" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chap12.GUIExample (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap12.GUIExample" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chap12.GUIExample (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap12.GUIExample" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="애플리케이션.K2500191_1" />
+      <item itemvalue="애플리케이션.chap12.GUIExample (2)" />
+      <item itemvalue="애플리케이션.chap12.GUIExample (3)" />
+      <item itemvalue="애플리케이션.chap12.GUIExample (4)" />
+      <item itemvalue="애플리케이션.GUIExample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.K2500191_1" />
+        <item itemvalue="애플리케이션.GUIExample" />
+        <item itemvalue="애플리케이션.chap12.GUIExample (4)" />
+        <item itemvalue="애플리케이션.chap12.GUIExample (3)" />
+        <item itemvalue="애플리케이션.chap12.GUIExample (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="b9a18ce8-4c01-47ca-8066-3db377a7ac6f" name="변경" comment="" />
+      <created>1777248466677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777248466677</updated>
+    </task>
+    <servers />
+  </component>
+</project>
