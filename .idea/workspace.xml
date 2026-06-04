@@ -155,11 +155,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.GUIExample" />
       <item itemvalue="애플리케이션.K2500191_1" />
       <item itemvalue="애플리케이션.chap12.GUIExample (2)" />
       <item itemvalue="애플리케이션.chap12.GUIExample (3)" />
       <item itemvalue="애플리케이션.chap12.GUIExample (4)" />
+      <item itemvalue="애플리케이션.GUIExample" />
     </list>
     <recent_temporary>
       <list>
