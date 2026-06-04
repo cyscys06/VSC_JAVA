@@ -20,12 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/cyscys06/IntelliJ_JAVA.git",
-    "accountId": "806ce5c6-eb1a-4010-a631-4d2a5d541059"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cyscys06&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cyscys06/IntelliJ_JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;806ce5c6-eb1a-4010-a631-4d2a5d541059&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -35,47 +44,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/Area/IntelliJ_JAVA",
-    "settings.editor.selected.configurable": "preferences.language.and.region",
-    "애플리케이션.BufferedCopyExample.executor": "Run",
-    "애플리케이션.BufferedReaderExample.executor": "Run",
-    "애플리케이션.DataStreamExample.executor": "Run",
-    "애플리케이션.FileAppendExample.executor": "Run",
-    "애플리케이션.FileReadExample.executor": "Run",
-    "애플리케이션.FileWriteExample.executor": "Run",
-    "애플리케이션.GUIExample.executor": "Run",
-    "애플리케이션.ImageCopyExample.executor": "Run",
-    "애플리케이션.K2500191_1.executor": "Run",
-    "애플리케이션.ListenerExample.executor": "Run",
-    "애플리케이션.MultipleReadExample.executor": "Run",
-    "애플리케이션.ObjectStreamExample.executor": "Run",
-    "애플리케이션.PhoneBookExample.executor": "Run",
-    "애플리케이션.SwingExample.executor": "Run",
-    "애플리케이션.chap12.GUIExample (1).executor": "Run",
-    "애플리케이션.chap12.GUIExample (2).executor": "Run",
-    "애플리케이션.chap12.GUIExample (3).executor": "Run",
-    "애플리케이션.chap12.GUIExample (4).executor": "Run",
-    "애플리케이션.chap12.GUIExample.executor": "Run",
-    "애플리케이션.program.program.PhoneBookExample.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/Area/IntelliJ_JAVA&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;,
+    &quot;애플리케이션.BufferedCopyExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.BufferedReaderExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DataStreamExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.FileAppendExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.FileReadExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.FileWriteExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.GUIExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ImageCopyExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.K2500191_1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ListenerExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MultipleReadExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ObjectStreamExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.PhoneBookExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SwingExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.chap12.GUIExample (1).executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.chap12.GUIExample (2).executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.chap12.GUIExample (3).executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.chap12.GUIExample (4).executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.chap12.GUIExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.program.program.PhoneBookExample.executor&quot;: &quot;Run&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA" />
       <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA\JavaProgramming\src" />
       <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA\JavaProgramming\Files" />
       <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA\JavaProgramming\src\program" />
       <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA\JavaProgramming\File" />
-      <recent name="C:\Users\user\Desktop\Area\IntelliJ_JAVA\JavaProgramming" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.K2500191_1">
@@ -139,11 +155,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="애플리케이션.GUIExample" />
       <item itemvalue="애플리케이션.K2500191_1" />
       <item itemvalue="애플리케이션.chap12.GUIExample (2)" />
       <item itemvalue="애플리케이션.chap12.GUIExample (3)" />
       <item itemvalue="애플리케이션.chap12.GUIExample (4)" />
-      <item itemvalue="애플리케이션.GUIExample" />
     </list>
     <recent_temporary>
       <list>
@@ -170,6 +186,27 @@
       <option name="presentableId" value="Default" />
       <updated>1777248466677</updated>
     </task>
+    <task id="LOCAL-00001" summary="학교수업 파일 추가">
+      <option name="closed" value="true" />
+      <created>1780615159125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780615159125</updated>
+    </task>
+    <task id="LOCAL-00002" summary="학교수업 파일 추가">
+      <option name="closed" value="true" />
+      <created>1780615238608</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780615238608</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="학교수업 파일 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="학교수업 파일 추가" />
   </component>
 </project>
